@@ -11,6 +11,15 @@ and open the template in the editor.
     </head>
     <body>
         <p>Esto no quedó malo</p>
+        <form>
+            <div><label>Nombre:</label><input type=""></input></div>
+            <div><label>Totalusd:</label><input type=""></input></div>
+            <div><label>Anio:</label><input type=""></input></div>
+            <input type="submit">
+        </form>
+        
+        
+        
         <?php
         // put your code here
         ?>
