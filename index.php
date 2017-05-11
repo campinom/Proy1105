@@ -12,9 +12,9 @@ and open the template in the editor.
     <body>
         <p>Esto no quedó malo</p>
         <form>
-            <div><label>Nombre:</label><input type=""></input></div>
-            <div><label>Totalusd:</label><input type=""></input></div>
-            <div><label>Anio:</label><input type=""></input></div>
+            <div><label>Nombre:</label><input type="text" name="nombre"></input></div>
+            <div><label>Totalusd:</label><input type="text" name="totalusd"></input></div>
+            <div><label>Anio:</label><input type="text" nombre="ano"></input></div>
             <input type="submit">
         </form>
         
